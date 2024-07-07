@@ -27,4 +27,5 @@
 <img align="left"  height="80" width="80" src="https://cdn-icons-png.flaticon.com/512/603/603201.png">
 <img align="left"  height="80" width="80" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/django_original_logo_icon_146559.png">
 <img align="left"  height="80" width="80" src="https://cdn-icons-png.flaticon.com/512/2021/2021646.png">
+<img align="left" height="80" width="80" src="https://miro.medium.com/v2/resize:fit:383/1*co_1qORNdM0PI1nvCp7Iig.png">
 </div>
