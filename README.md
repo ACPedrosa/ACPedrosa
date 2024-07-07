@@ -11,7 +11,6 @@
 <div align="left"> 
 <img align="left" height="80" width="80" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/640px-Python-logo-notext.svg.png">
 <img align="left" height="84" width="60" src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/1200px-Java_programming_language_logo.svg.png">
-<img align="left" height="80" width="80" src="https://miro.medium.com/v2/resize:fit:383/1*co_1qORNdM0PI1nvCp7Iig.png">
 </div>
 
 <br>
