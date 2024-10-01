@@ -28,3 +28,18 @@
 <img align="left"  height="80" width="80" src="https://cdn-icons-png.flaticon.com/512/2021/2021646.png">
 <img align="left" height="80" width="80" src="https://miro.medium.com/v2/resize:fit:383/1*co_1qORNdM0PI1nvCp7Iig.png">
 </div>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+
+### Informações
+
+<b>Estatísticas do GitHub</b>
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ACPedrosa&show_icons=true&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ACPedrosa&layout=compact&langs_count=168&theme=dark"/>
+</div>
