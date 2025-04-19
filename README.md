@@ -10,14 +10,21 @@
 
 ## ✨ Sobre Mim
 
-- 🚀 Explorando o desenvolvimento back-end e automação como formas de otimizar soluções.  
-- 🤖 Interessada em sistemas embarcados e robótica, integrando software e hardware.  
-- 🌱 Atualmente aprendendo C e ferramentas de GUI como **Dear ImGui**.  
-- 📱 Descobrindo o desenvolvimento mobile com **React Native**.  
-- 💻 Experiência com **Java**, **Python** e **Django**.  
-- 📊 Já atuei com análise de dados utilizando **Seaborn**, **Matplotlib** e **Streamlit**.  
-- 📝 Gosto de documentação: análise de requisitos, criação de diagramas e muito mais.  
-- 💡 Sempre pronta para aprender e compartilhar conhecimento!
+  🚀 Explorando o desenvolvimento back-end e a automação como formas de otimizar soluções.<br>
+  
+  🤖 Grande interesse em sistemas embarcados e robótica, buscando integrar software e hardware.<br>
+  
+  🌱 Atualmente focada no aprendizado de linguagens de baixo nível como C e ferramentas de GUI como Dear ImGui.<br>
+  
+  📱 Em processo de descoberta do desenvolvimento mobile com React Native.<br>
+  
+  💻 Experiência prévia com Java, Python e o framework Django.<br>
+  
+  📊 Experiência em análise de dados utilizando Seaborn, Matplotlib e Streamlit.<br>
+  
+  📝 Afinidade com o ciclo de documentação de software, desde a análise de requisitos até a criação de diagramas.<br>
+  
+  💡 Sempre pronta para aprender novas tecnologias e compartilhar conhecimento.<br>
 
 ---
 
