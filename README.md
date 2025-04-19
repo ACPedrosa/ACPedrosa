@@ -1,4 +1,5 @@
-<h1 align="center">Olá! 👋 Eu sou a Ana Caroline</h1>
+![Header](./img/github-header-image-pc.png)
+<h1 align="center"> Ana Caroline 🌟 </h1>
 
 <p align="center">
 🎓 Técnica em Informática pelo IFPR <br/>
