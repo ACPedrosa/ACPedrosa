@@ -1,45 +1,69 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Arial&weight=300&size=50&duration=4000&pause=1000&color=D0A2F7&center=true&vCenter=true&random=false&width=1000&lines=Olá%2C+meu+nome+é+Ana+Caroline;Eu+tenho+19+anos;Sou+Técnica+em+Informática;Brasileira;Bem-vindo%3A)](https://git.io/typing-svg)
+<h1 align="center">Olá! 👋 Eu sou a Ana Caroline</h1>
+
+<p align="center">
+🎓 Técnica em Informática pelo IFPR <br/>
+💻 Estudante do último ano de TADS (Tecnologia em Análise e Desenvolvimento de Sistemas) <br/>
+💡 Apaixonada por back-end, automação, sistemas embarcados e robótica.
+</p>
 
 <hr>
-- 📖 Estudo Análise e Desenvolvimento de Sistemas no IFPR; <br>
-- 🎧 gosto de escutar diferentes estilos musicais e <br>
-- 🖥️ adoro estudar arquitetura e organização de computadores. <br>
 
-<br>
+## ✨ Sobre Mim
 
-### Eu gosto e tenho conhecimento sobre:
-<div align="left"> 
-<img align="left" height="80" width="80" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/640px-Python-logo-notext.svg.png">
-<img align="left" height="84" width="60" src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/1200px-Java_programming_language_logo.svg.png">
-</div>
+- 🚀 Explorando o desenvolvimento back-end e automação como formas de otimizar soluções.  
+- 🤖 Interessada em sistemas embarcados e robótica, integrando software e hardware.  
+- 🌱 Atualmente aprendendo C e ferramentas de GUI como **Dear ImGui**.  
+- 📱 Descobrindo o desenvolvimento mobile com **React Native**.  
+- 💻 Experiência com **Java**, **Python** e **Django**.  
+- 📊 Já atuei com análise de dados utilizando **Seaborn**, **Matplotlib** e **Streamlit**.  
+- 📝 Gosto de documentação: análise de requisitos, criação de diagramas e muito mais.  
+- 💡 Sempre pronta para aprender e compartilhar conhecimento!
 
-<br>
-<br>
-<br>
-<br>
-<br>
+---
 
-### No momento estou estudando:
+## 🛠️ Tecnologias e Ferramentas
 
-<div align="left"> 
-<img align="left"  height="80" width="80" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Android_Studio_icon_%282023%29.svg/1024px-Android_Studio_icon_%282023%29.svg.png">
-<img align="left"  height="80" width="80" src="https://cdn-icons-png.flaticon.com/512/603/603201.png">
-<img align="left"  height="80" width="80" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/django_original_logo_icon_146559.png">
-<img align="left"  height="80" width="80" src="https://cdn-icons-png.flaticon.com/512/2021/2021646.png">
-<img align="left" height="80" width="80" src="https://miro.medium.com/v2/resize:fit:383/1*co_1qORNdM0PI1nvCp7Iig.png">
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,c" alt="Java, Python, C"/>
+  <br/>
+  <img src="https://skillicons.dev/icons?i=django,reactnative" alt="Django, React Native"/>
+  <br/>
+  <img src="https://skillicons.dev/icons?i=seaborn,matplotlib,streamlit" alt="Seaborn, Matplotlib, Streamlit"/>
+</p>
 
-<br>
-<br>
-<br>
-<br>
-<br>
+---
 
-### Informações
+## 🎓 Formação Acadêmica
 
-<b>Estatísticas do GitHub</b>
+<p align="center">
+  <b><ins>Técnico em Informática</ins></b><br/>
+  Instituto Federal do Paraná - Campus Cascavel
+  <br/><br/>
+  <b><ins>Tecnologia em Análise e Desenvolvimento de Sistemas (Cursando)</ins></b><br/>
+  Instituto Federal do Paraná - Campus Cascavel
+</p>
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ACPedrosa&show_icons=true&theme=dark"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ACPedrosa&layout=compact&langs_count=168&theme=dark"/>
-</div>
+---
+
+## ⚡ GitHub Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ACPedrosa&show_icons=true&theme=dark&rank_icon=github&count_private=true" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ACPedrosa&layout=compact&langs_count=168&theme=dark" alt="Top Langs"/>
+</p>
+
+---
+
+## 💬 Conecte-se Comigo
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/seu-perfil-linkedin-aqui" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=0077B5" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.instagram.com/aninha0524/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Instagram"/>
+  </a>
+  <a href="mailto:seuemail@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-black?style=for-the-badge&logo=gmail&logoColor=D14836" alt="Gmail"/>
+  </a>
+</p>
