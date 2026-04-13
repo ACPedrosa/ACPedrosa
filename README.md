@@ -3,7 +3,8 @@
 
 <p align="center">
 🎓 Técnica em Informática pelo IFPR <br/>
-💻 Estudante do último ano de TADS (Tecnologia em Análise e Desenvolvimento de Sistemas) <br/>
+💻 Tecnóloga em Análise e Desenvolvimento de Sistemas - IFPR <br/>
+🚀 Mestranda em Ciência da coputação, na linha de sistemas de computação. <br/> 
 💡 Apaixonada por back-end, automação, sistemas embarcados e robótica.
 </p>
 
@@ -16,8 +17,6 @@
   🤖 Grande interesse em sistemas embarcados e robótica, buscando integrar software e hardware.<br>
   
   🌱 Atualmente focada no aprendizado de linguagens de baixo nível como C e ferramentas de GUI como Dear ImGui.<br>
-  
-  📱 Em processo de descoberta do desenvolvimento mobile com React Native.<br>
   
   💻 Experiência prévia com Java, Python e o framework Django.<br>
   
