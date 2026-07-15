@@ -1,16 +1,17 @@
 ![Header](./img/github-header-image-pc.png)
-<h1 align="center"> Ana Caroline 🌟 </h1>
+<h1 align="center"> Ana Caroline </h1>
 
 <p align="center">
-🎓 Técnica em Informática pelo IFPR <br/>
-💻 Tecnóloga em Análise e Desenvolvimento de Sistemas - IFPR <br/>
-🚀 Mestranda em Ciência da coputação, na linha de sistemas de computação. <br/> 
-💡 Apaixonada por back-end, automação, sistemas embarcados e robótica.
+ Técnica em Informática pelo IFPR <br/>
+ Tecnóloga em Análise e Desenvolvimento de Sistemas - IFPR <br/>
+ Mestranda em Ciência da coputação, na linha de sistemas de computação. <br/> 
+ Professora de Informática e Desenvolvimento de Sistemas pelo SENAI <br/>
+ Apaixonada por back-end, automação, sistemas embarcados e robótica.
 </p>
 
 <hr>
 
-## ✨ Sobre Mim
+## Sobre Mim
 
   🚀 Explorando o desenvolvimento back-end e a automação como formas de otimizar soluções.<br>
   
